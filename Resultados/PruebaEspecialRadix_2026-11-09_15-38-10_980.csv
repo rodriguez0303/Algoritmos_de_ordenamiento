@@ -1,0 +1,16 @@
+Algoritmo;Tamaño;Dígitos;Repetición;Tiempo (ms)
+Radix Sort;100000;3;1;6.2030
+Radix Sort;100000;3;2;2.5853
+Radix Sort;100000;3;3;2.3797
+Radix Sort;100000;3;4;2.4445
+Radix Sort;100000;3;5;2.3859
+Radix Sort;100000;6;1;7.5274
+Radix Sort;100000;6;2;4.4222
+Radix Sort;100000;6;3;4.2173
+Radix Sort;100000;6;4;4.1446
+Radix Sort;100000;6;5;4.1175
+Radix Sort;100000;9;1;6.2879
+Radix Sort;100000;9;2;6.6134
+Radix Sort;100000;9;3;6.7269
+Radix Sort;100000;9;4;6.6675
+Radix Sort;100000;9;5;6.6787
