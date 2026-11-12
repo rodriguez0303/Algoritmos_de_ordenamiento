@@ -1,0 +1,2353 @@
+Archivo de resultados: C:\Users\lrodr\Documents\TEC\2 Semestre 2026\Algoritmos 1\Tarea 2\BenchmarkOrdenamiento\Resultados\Benchmark_2026-11-09_00-52-14_950.txt
+
+======================================
+ALGORITMO: Selection Sort
+======================================
+
+Tamaño: 1000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 1,2307 ms
+Repetición 2: 0,7739 ms
+Repetición 3: 0,4044 ms
+Repetición 4: 0,4077 ms
+Repetición 5: 0,4017 ms
+Mediana: 0,4077 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,2330 ms
+Repetición 2: 0,2325 ms
+Repetición 3: 0,2321 ms
+Repetición 4: 0,2368 ms
+Repetición 5: 0,2325 ms
+Mediana: 0,2325 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,3342 ms
+Repetición 2: 0,2874 ms
+Repetición 3: 0,2805 ms
+Repetición 4: 0,2858 ms
+Repetición 5: 0,2892 ms
+Mediana: 0,2874 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,2655 ms
+Repetición 2: 0,2603 ms
+Repetición 3: 0,2582 ms
+Repetición 4: 0,2577 ms
+Repetición 5: 0,2584 ms
+Mediana: 0,2584 ms
+
+======================================
+ALGORITMO: Bubble Sort
+======================================
+
+Tamaño: 1000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 1,8835 ms
+Repetición 2: 1,6845 ms
+Repetición 3: 1,5777 ms
+Repetición 4: 1,7345 ms
+Repetición 5: 0,8473 ms
+Mediana: 1,6845 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1238 ms
+Repetición 2: 0,1298 ms
+Repetición 3: 0,1233 ms
+Repetición 4: 0,1225 ms
+Repetición 5: 0,1226 ms
+Mediana: 0,1233 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,7889 ms
+Repetición 2: 0,7858 ms
+Repetición 3: 0,7708 ms
+Repetición 4: 0,7860 ms
+Repetición 5: 0,7734 ms
+Mediana: 0,7858 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,7021 ms
+Repetición 2: 0,6746 ms
+Repetición 3: 0,6526 ms
+Repetición 4: 0,6536 ms
+Repetición 5: 0,6506 ms
+Mediana: 0,6536 ms
+
+======================================
+ALGORITMO: Insertion Sort
+======================================
+
+Tamaño: 1000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,5913 ms
+Repetición 2: 0,5826 ms
+Repetición 3: 0,5780 ms
+Repetición 4: 0,3701 ms
+Repetición 5: 0,5904 ms
+Mediana: 0,5826 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0032 ms
+Repetición 2: 0,0044 ms
+Repetición 3: 0,0030 ms
+Repetición 4: 0,0029 ms
+Repetición 5: 0,0029 ms
+Mediana: 0,0030 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,3650 ms
+Repetición 2: 0,3439 ms
+Repetición 3: 0,3433 ms
+Repetición 4: 0,3436 ms
+Repetición 5: 0,3514 ms
+Mediana: 0,3439 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1926 ms
+Repetición 2: 0,1886 ms
+Repetición 3: 0,1849 ms
+Repetición 4: 0,2139 ms
+Repetición 5: 0,1937 ms
+Mediana: 0,1926 ms
+
+======================================
+ALGORITMO: Shell Sort
+======================================
+
+Tamaño: 1000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,4463 ms
+Repetición 2: 0,4504 ms
+Repetición 3: 0,4735 ms
+Repetición 4: 0,5078 ms
+Repetición 5: 0,2446 ms
+Mediana: 0,4504 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0528 ms
+Repetición 2: 0,0302 ms
+Repetición 3: 0,0235 ms
+Repetición 4: 0,0231 ms
+Repetición 5: 0,0320 ms
+Mediana: 0,0302 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0685 ms
+Repetición 2: 0,0507 ms
+Repetición 3: 0,0377 ms
+Repetición 4: 0,0378 ms
+Repetición 5: 0,0403 ms
+Mediana: 0,0403 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0641 ms
+Repetición 2: 0,1920 ms
+Repetición 3: 0,1611 ms
+Repetición 4: 0,0942 ms
+Repetición 5: 0,1188 ms
+Mediana: 0,1188 ms
+
+======================================
+ALGORITMO: Merge Sort
+======================================
+
+Tamaño: 1000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,2058 ms
+Repetición 2: 0,5576 ms
+Repetición 3: 0,2137 ms
+Repetición 4: 0,1601 ms
+Repetición 5: 0,2440 ms
+Mediana: 0,2137 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0817 ms
+Repetición 2: 0,1162 ms
+Repetición 3: 0,0787 ms
+Repetición 4: 0,0787 ms
+Repetición 5: 0,0758 ms
+Mediana: 0,0787 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0905 ms
+Repetición 2: 0,0786 ms
+Repetición 3: 0,0811 ms
+Repetición 4: 0,0770 ms
+Repetición 5: 0,0912 ms
+Mediana: 0,0811 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1171 ms
+Repetición 2: 0,1168 ms
+Repetición 3: 0,1037 ms
+Repetición 4: 0,1066 ms
+Repetición 5: 0,1178 ms
+Mediana: 0,1168 ms
+
+======================================
+ALGORITMO: Quick Sort
+======================================
+
+Tamaño: 1000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1229 ms
+Repetición 2: 0,0723 ms
+Repetición 3: 0,0636 ms
+Repetición 4: 0,0721 ms
+Repetición 5: 0,0690 ms
+Mediana: 0,0721 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,8280 ms
+Repetición 2: 1,1146 ms
+Repetición 3: 1,1295 ms
+Repetición 4: 1,1286 ms
+Repetición 5: 0,6128 ms
+Mediana: 1,1146 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,7401 ms
+Repetición 2: 0,3758 ms
+Repetición 3: 0,3614 ms
+Repetición 4: 0,3951 ms
+Repetición 5: 0,3632 ms
+Mediana: 0,3758 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0589 ms
+Repetición 2: 0,0563 ms
+Repetición 3: 0,0538 ms
+Repetición 4: 0,0504 ms
+Repetición 5: 0,0498 ms
+Mediana: 0,0538 ms
+
+======================================
+ALGORITMO: Radix Sort
+======================================
+
+Tamaño: 1000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,3774 ms
+Repetición 2: 0,3842 ms
+Repetición 3: 0,7194 ms
+Repetición 4: 0,3003 ms
+Repetición 5: 0,3609 ms
+Mediana: 0,3774 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1305 ms
+Repetición 2: 0,1075 ms
+Repetición 3: 0,1237 ms
+Repetición 4: 0,1116 ms
+Repetición 5: 0,1086 ms
+Mediana: 0,1116 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1184 ms
+Repetición 2: 0,1606 ms
+Repetición 3: 0,1656 ms
+Repetición 4: 0,1624 ms
+Repetición 5: 0,1688 ms
+Mediana: 0,1624 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0856 ms
+Repetición 2: 0,0620 ms
+Repetición 3: 0,0747 ms
+Repetición 4: 0,0626 ms
+Repetición 5: 0,0645 ms
+Mediana: 0,0645 ms
+
+======================================
+ALGORITMO: Selection Sort
+======================================
+
+Tamaño: 2000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 1,0046 ms
+Repetición 2: 1,0121 ms
+Repetición 3: 1,0024 ms
+Repetición 4: 1,0174 ms
+Repetición 5: 1,1220 ms
+Mediana: 1,0121 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,9274 ms
+Repetición 2: 0,9529 ms
+Repetición 3: 0,9173 ms
+Repetición 4: 0,9367 ms
+Repetición 5: 0,9100 ms
+Mediana: 0,9274 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,9754 ms
+Repetición 2: 0,9661 ms
+Repetición 3: 0,9823 ms
+Repetición 4: 0,9801 ms
+Repetición 5: 0,9721 ms
+Mediana: 0,9754 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,9216 ms
+Repetición 2: 0,9229 ms
+Repetición 3: 0,9201 ms
+Repetición 4: 0,9180 ms
+Repetición 5: 1,0568 ms
+Mediana: 0,9216 ms
+
+======================================
+ALGORITMO: Bubble Sort
+======================================
+
+Tamaño: 2000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 2,4467 ms
+Repetición 2: 2,4484 ms
+Repetición 3: 2,4576 ms
+Repetición 4: 2,4279 ms
+Repetición 5: 2,4791 ms
+Mediana: 2,4484 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,4508 ms
+Repetición 2: 0,4518 ms
+Repetición 3: 0,4612 ms
+Repetición 4: 0,4766 ms
+Repetición 5: 0,4504 ms
+Mediana: 0,4518 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 3,1423 ms
+Repetición 2: 3,2136 ms
+Repetición 3: 3,2887 ms
+Repetición 4: 3,1490 ms
+Repetición 5: 3,3083 ms
+Mediana: 3,2136 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 1,8676 ms
+Repetición 2: 2,0516 ms
+Repetición 3: 2,2393 ms
+Repetición 4: 2,0791 ms
+Repetición 5: 1,9590 ms
+Mediana: 2,0516 ms
+
+======================================
+ALGORITMO: Insertion Sort
+======================================
+
+Tamaño: 2000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,2581 ms
+Repetición 2: 0,2403 ms
+Repetición 3: 0,2186 ms
+Repetición 4: 0,2165 ms
+Repetición 5: 0,2269 ms
+Mediana: 0,2269 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0043 ms
+Repetición 2: 0,0041 ms
+Repetición 3: 0,0040 ms
+Repetición 4: 0,0042 ms
+Repetición 5: 0,0039 ms
+Mediana: 0,0041 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,6901 ms
+Repetición 2: 0,5382 ms
+Repetición 3: 0,4766 ms
+Repetición 4: 0,4112 ms
+Repetición 5: 0,4079 ms
+Mediana: 0,4766 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1982 ms
+Repetición 2: 0,1955 ms
+Repetición 3: 0,1957 ms
+Repetición 4: 0,1955 ms
+Repetición 5: 0,2039 ms
+Mediana: 0,1957 ms
+
+======================================
+ALGORITMO: Shell Sort
+======================================
+
+Tamaño: 2000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1700 ms
+Repetición 2: 0,1540 ms
+Repetición 3: 0,1528 ms
+Repetición 4: 0,1517 ms
+Repetición 5: 0,1514 ms
+Mediana: 0,1528 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0150 ms
+Repetición 2: 0,0148 ms
+Repetición 3: 0,0148 ms
+Repetición 4: 0,0148 ms
+Repetición 5: 0,0148 ms
+Mediana: 0,0148 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0249 ms
+Repetición 2: 0,0241 ms
+Repetición 3: 0,0241 ms
+Repetición 4: 0,0239 ms
+Repetición 5: 0,0237 ms
+Mediana: 0,0241 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0800 ms
+Repetición 2: 0,1026 ms
+Repetición 3: 0,0796 ms
+Repetición 4: 0,0756 ms
+Repetición 5: 0,0734 ms
+Mediana: 0,0796 ms
+
+======================================
+ALGORITMO: Merge Sort
+======================================
+
+Tamaño: 2000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,2414 ms
+Repetición 2: 0,2460 ms
+Repetición 3: 0,2249 ms
+Repetición 4: 0,2301 ms
+Repetición 5: 0,2218 ms
+Mediana: 0,2301 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1205 ms
+Repetición 2: 0,1036 ms
+Repetición 3: 0,1335 ms
+Repetición 4: 0,1186 ms
+Repetición 5: 0,1350 ms
+Mediana: 0,1205 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1207 ms
+Repetición 2: 0,1489 ms
+Repetición 3: 0,1405 ms
+Repetición 4: 0,1247 ms
+Repetición 5: 0,1363 ms
+Mediana: 0,1363 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1545 ms
+Repetición 2: 0,1481 ms
+Repetición 3: 0,1379 ms
+Repetición 4: 0,1513 ms
+Repetición 5: 0,1481 ms
+Mediana: 0,1481 ms
+
+======================================
+ALGORITMO: Quick Sort
+======================================
+
+Tamaño: 2000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1091 ms
+Repetición 2: 0,0954 ms
+Repetición 3: 0,0877 ms
+Repetición 4: 0,0848 ms
+Repetición 5: 0,0823 ms
+Mediana: 0,0877 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 2,7821 ms
+Repetición 2: 2,7757 ms
+Repetición 3: 1,8642 ms
+Repetición 4: 1,4832 ms
+Repetición 5: 1,5139 ms
+Mediana: 1,8642 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 1,1679 ms
+Repetición 2: 1,5459 ms
+Repetición 3: 1,8666 ms
+Repetición 4: 1,1535 ms
+Repetición 5: 1,2294 ms
+Mediana: 1,2294 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1914 ms
+Repetición 2: 0,1829 ms
+Repetición 3: 0,1788 ms
+Repetición 4: 0,1974 ms
+Repetición 5: 0,1839 ms
+Mediana: 0,1839 ms
+
+======================================
+ALGORITMO: Radix Sort
+======================================
+
+Tamaño: 2000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,4151 ms
+Repetición 2: 0,3053 ms
+Repetición 3: 0,3883 ms
+Repetición 4: 0,2638 ms
+Repetición 5: 0,2888 ms
+Mediana: 0,3053 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,3460 ms
+Repetición 2: 0,2921 ms
+Repetición 3: 0,2684 ms
+Repetición 4: 0,3434 ms
+Repetición 5: 0,2935 ms
+Mediana: 0,2935 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,3485 ms
+Repetición 2: 0,2448 ms
+Repetición 3: 0,4018 ms
+Repetición 4: 0,4167 ms
+Repetición 5: 0,4016 ms
+Mediana: 0,4016 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1930 ms
+Repetición 2: 0,1319 ms
+Repetición 3: 0,1237 ms
+Repetición 4: 0,1715 ms
+Repetición 5: 0,1232 ms
+Mediana: 0,1319 ms
+
+======================================
+ALGORITMO: Selection Sort
+======================================
+
+Tamaño: 4000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 5,2231 ms
+Repetición 2: 3,9364 ms
+Repetición 3: 3,8886 ms
+Repetición 4: 4,1058 ms
+Repetición 5: 4,2983 ms
+Mediana: 4,1058 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 3,4979 ms
+Repetición 2: 3,6261 ms
+Repetición 3: 3,5268 ms
+Repetición 4: 3,5578 ms
+Repetición 5: 3,6848 ms
+Mediana: 3,5578 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 3,8164 ms
+Repetición 2: 3,9342 ms
+Repetición 3: 3,8629 ms
+Repetición 4: 3,9929 ms
+Repetición 5: 3,9527 ms
+Mediana: 3,9342 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 3,6882 ms
+Repetición 2: 3,8961 ms
+Repetición 3: 3,6249 ms
+Repetición 4: 3,8864 ms
+Repetición 5: 3,5894 ms
+Mediana: 3,6882 ms
+
+======================================
+ALGORITMO: Bubble Sort
+======================================
+
+Tamaño: 4000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 9,2522 ms
+Repetición 2: 9,3813 ms
+Repetición 3: 11,5869 ms
+Repetición 4: 9,0537 ms
+Repetición 5: 9,2364 ms
+Mediana: 9,2522 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 1,9300 ms
+Repetición 2: 1,7899 ms
+Repetición 3: 1,8583 ms
+Repetición 4: 1,8883 ms
+Repetición 5: 1,7500 ms
+Mediana: 1,8583 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 12,7653 ms
+Repetición 2: 13,0148 ms
+Repetición 3: 13,0610 ms
+Repetición 4: 14,0654 ms
+Repetición 5: 13,2474 ms
+Mediana: 13,0610 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 8,1747 ms
+Repetición 2: 6,5141 ms
+Repetición 3: 6,7238 ms
+Repetición 4: 6,4827 ms
+Repetición 5: 6,8407 ms
+Mediana: 6,7238 ms
+
+======================================
+ALGORITMO: Insertion Sort
+======================================
+
+Tamaño: 4000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,7910 ms
+Repetición 2: 0,7813 ms
+Repetición 3: 0,7791 ms
+Repetición 4: 0,7833 ms
+Repetición 5: 0,7780 ms
+Mediana: 0,7813 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0034 ms
+Repetición 2: 0,0033 ms
+Repetición 3: 0,0033 ms
+Repetición 4: 0,0033 ms
+Repetición 5: 0,0033 ms
+Mediana: 0,0033 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 1,5074 ms
+Repetición 2: 1,5041 ms
+Repetición 3: 1,5678 ms
+Repetición 4: 1,5705 ms
+Repetición 5: 1,4979 ms
+Mediana: 1,5074 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,7078 ms
+Repetición 2: 0,7816 ms
+Repetición 3: 0,7033 ms
+Repetición 4: 0,7091 ms
+Repetición 5: 0,7040 ms
+Mediana: 0,7078 ms
+
+======================================
+ALGORITMO: Shell Sort
+======================================
+
+Tamaño: 4000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,3493 ms
+Repetición 2: 0,3371 ms
+Repetición 3: 0,3372 ms
+Repetición 4: 0,3362 ms
+Repetición 5: 0,3356 ms
+Mediana: 0,3371 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0319 ms
+Repetición 2: 0,0317 ms
+Repetición 3: 0,0317 ms
+Repetición 4: 0,0337 ms
+Repetición 5: 0,0316 ms
+Mediana: 0,0317 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0523 ms
+Repetición 2: 0,0506 ms
+Repetición 3: 0,0504 ms
+Repetición 4: 0,0505 ms
+Repetición 5: 0,0500 ms
+Mediana: 0,0505 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1786 ms
+Repetición 2: 0,1753 ms
+Repetición 3: 0,1740 ms
+Repetición 4: 0,1737 ms
+Repetición 5: 0,1716 ms
+Mediana: 0,1740 ms
+
+======================================
+ALGORITMO: Merge Sort
+======================================
+
+Tamaño: 4000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,8642 ms
+Repetición 2: 0,6641 ms
+Repetición 3: 0,7437 ms
+Repetición 4: 0,9973 ms
+Repetición 5: 0,6640 ms
+Mediana: 0,7437 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,2524 ms
+Repetición 2: 0,2302 ms
+Repetición 3: 0,2091 ms
+Repetición 4: 0,2518 ms
+Repetición 5: 0,2438 ms
+Mediana: 0,2438 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,2151 ms
+Repetición 2: 3,2694 ms
+Repetición 3: 0,1806 ms
+Repetición 4: 0,2194 ms
+Repetición 5: 0,2388 ms
+Mediana: 0,2194 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,3143 ms
+Repetición 2: 0,2351 ms
+Repetición 3: 0,2841 ms
+Repetición 4: 0,2937 ms
+Repetición 5: 0,2153 ms
+Mediana: 0,2841 ms
+
+======================================
+ALGORITMO: Quick Sort
+======================================
+
+Tamaño: 4000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,3323 ms
+Repetición 2: 0,2695 ms
+Repetición 3: 0,2383 ms
+Repetición 4: 0,2434 ms
+Repetición 5: 0,2314 ms
+Mediana: 0,2434 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 6,7743 ms
+Repetición 2: 6,2003 ms
+Repetición 3: 6,0157 ms
+Repetición 4: 6,2383 ms
+Repetición 5: 6,2844 ms
+Mediana: 6,2383 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 4,7223 ms
+Repetición 2: 7,5668 ms
+Repetición 3: 4,2655 ms
+Repetición 4: 4,4720 ms
+Repetición 5: 5,0425 ms
+Mediana: 4,7223 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,7737 ms
+Repetición 2: 0,6802 ms
+Repetición 3: 0,8187 ms
+Repetición 4: 0,7987 ms
+Repetición 5: 0,7485 ms
+Mediana: 0,7737 ms
+
+======================================
+ALGORITMO: Radix Sort
+======================================
+
+Tamaño: 4000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,3013 ms
+Repetición 2: 0,2643 ms
+Repetición 3: 0,2711 ms
+Repetición 4: 0,2067 ms
+Repetición 5: 0,1924 ms
+Mediana: 0,2643 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,2424 ms
+Repetición 2: 0,2076 ms
+Repetición 3: 0,1990 ms
+Repetición 4: 0,2198 ms
+Repetición 5: 0,2119 ms
+Mediana: 0,2119 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,2092 ms
+Repetición 2: 0,1952 ms
+Repetición 3: 0,1752 ms
+Repetición 4: 0,1845 ms
+Repetición 5: 0,1759 ms
+Mediana: 0,1845 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0657 ms
+Repetición 2: 0,0659 ms
+Repetición 3: 0,0643 ms
+Repetición 4: 0,0705 ms
+Repetición 5: 0,0641 ms
+Mediana: 0,0657 ms
+
+======================================
+ALGORITMO: Selection Sort
+======================================
+
+Tamaño: 8000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 16,4775 ms
+Repetición 2: 14,8821 ms
+Repetición 3: 15,0952 ms
+Repetición 4: 14,6175 ms
+Repetición 5: 14,5666 ms
+Mediana: 14,8821 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 14,7713 ms
+Repetición 2: 14,8784 ms
+Repetición 3: 13,9711 ms
+Repetición 4: 14,5697 ms
+Repetición 5: 15,3400 ms
+Mediana: 14,7713 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 16,7003 ms
+Repetición 2: 17,4945 ms
+Repetición 3: 16,8675 ms
+Repetición 4: 18,1689 ms
+Repetición 5: 17,3394 ms
+Mediana: 17,3394 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 15,9315 ms
+Repetición 2: 15,9983 ms
+Repetición 3: 17,0518 ms
+Repetición 4: 14,3741 ms
+Repetición 5: 14,4653 ms
+Mediana: 15,9315 ms
+
+======================================
+ALGORITMO: Bubble Sort
+======================================
+
+Tamaño: 8000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 68,7742 ms
+Repetición 2: 61,4656 ms
+Repetición 3: 62,2159 ms
+Repetición 4: 62,2051 ms
+Repetición 5: 64,2975 ms
+Mediana: 62,2159 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 6,9252 ms
+Repetición 2: 6,9392 ms
+Repetición 3: 7,4014 ms
+Repetición 4: 7,4421 ms
+Repetición 5: 6,9711 ms
+Mediana: 6,9711 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 54,2844 ms
+Repetición 2: 54,9700 ms
+Repetición 3: 52,0893 ms
+Repetición 4: 58,5297 ms
+Repetición 5: 53,1885 ms
+Mediana: 54,2844 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 49,6483 ms
+Repetición 2: 52,7211 ms
+Repetición 3: 50,8444 ms
+Repetición 4: 57,9458 ms
+Repetición 5: 51,0232 ms
+Mediana: 51,0232 ms
+
+======================================
+ALGORITMO: Insertion Sort
+======================================
+
+Tamaño: 8000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 2,9665 ms
+Repetición 2: 3,1323 ms
+Repetición 3: 3,4773 ms
+Repetición 4: 2,9341 ms
+Repetición 5: 2,9304 ms
+Mediana: 2,9665 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0072 ms
+Repetición 2: 0,0066 ms
+Repetición 3: 0,0068 ms
+Repetición 4: 0,0120 ms
+Repetición 5: 0,0092 ms
+Mediana: 0,0072 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 5,8317 ms
+Repetición 2: 5,8379 ms
+Repetición 3: 5,8306 ms
+Repetición 4: 5,9234 ms
+Repetición 5: 6,0556 ms
+Mediana: 5,8379 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 2,6986 ms
+Repetición 2: 2,7108 ms
+Repetición 3: 2,7026 ms
+Repetición 4: 2,9311 ms
+Repetición 5: 2,7413 ms
+Mediana: 2,7108 ms
+
+======================================
+ALGORITMO: Shell Sort
+======================================
+
+Tamaño: 8000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,7709 ms
+Repetición 2: 0,7628 ms
+Repetición 3: 0,7583 ms
+Repetición 4: 0,7608 ms
+Repetición 5: 0,7561 ms
+Mediana: 0,7608 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0765 ms
+Repetición 2: 0,0692 ms
+Repetición 3: 0,0694 ms
+Repetición 4: 0,0692 ms
+Repetición 5: 0,0694 ms
+Mediana: 0,0694 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1096 ms
+Repetición 2: 0,1099 ms
+Repetición 3: 0,1144 ms
+Repetición 4: 0,1170 ms
+Repetición 5: 0,1099 ms
+Mediana: 0,1099 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,3580 ms
+Repetición 2: 0,3552 ms
+Repetición 3: 0,3546 ms
+Repetición 4: 0,3594 ms
+Repetición 5: 0,3542 ms
+Mediana: 0,3552 ms
+
+======================================
+ALGORITMO: Merge Sort
+======================================
+
+Tamaño: 8000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,7153 ms
+Repetición 2: 0,6875 ms
+Repetición 3: 0,6882 ms
+Repetición 4: 0,6923 ms
+Repetición 5: 0,6815 ms
+Mediana: 0,6882 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,2288 ms
+Repetición 2: 0,2294 ms
+Repetición 3: 0,2649 ms
+Repetición 4: 0,2394 ms
+Repetición 5: 0,2267 ms
+Mediana: 0,2294 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,2279 ms
+Repetición 2: 0,2286 ms
+Repetición 3: 0,2335 ms
+Repetición 4: 0,2314 ms
+Repetición 5: 0,2711 ms
+Mediana: 0,2314 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,6811 ms
+Repetición 2: 0,7457 ms
+Repetición 3: 0,6480 ms
+Repetición 4: 0,6181 ms
+Repetición 5: 0,6391 ms
+Mediana: 0,6480 ms
+
+======================================
+ALGORITMO: Quick Sort
+======================================
+
+Tamaño: 8000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,5566 ms
+Repetición 2: 0,5396 ms
+Repetición 3: 0,5247 ms
+Repetición 4: 0,5181 ms
+Repetición 5: 0,5197 ms
+Mediana: 0,5247 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 24,8242 ms
+Repetición 2: 23,9855 ms
+Repetición 3: 26,1007 ms
+Repetición 4: 25,4893 ms
+Repetición 5: 29,2854 ms
+Mediana: 25,4893 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 18,4383 ms
+Repetición 2: 18,0716 ms
+Repetición 3: 16,9764 ms
+Repetición 4: 18,2048 ms
+Repetición 5: 24,5400 ms
+Mediana: 18,2048 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 2,4476 ms
+Repetición 2: 2,3694 ms
+Repetición 3: 2,3431 ms
+Repetición 4: 2,4816 ms
+Repetición 5: 2,5521 ms
+Mediana: 2,4476 ms
+
+======================================
+ALGORITMO: Radix Sort
+======================================
+
+Tamaño: 8000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 0,4196 ms
+Repetición 2: 0,4008 ms
+Repetición 3: 0,4308 ms
+Repetición 4: 0,6602 ms
+Repetición 5: 0,5326 ms
+Mediana: 0,4308 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,4832 ms
+Repetición 2: 0,4653 ms
+Repetición 3: 0,4431 ms
+Repetición 4: 0,4074 ms
+Repetición 5: 0,4127 ms
+Mediana: 0,4431 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,4254 ms
+Repetición 2: 0,3849 ms
+Repetición 3: 0,3921 ms
+Repetición 4: 0,3779 ms
+Repetición 5: 0,4375 ms
+Mediana: 0,3921 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1384 ms
+Repetición 2: 0,1400 ms
+Repetición 3: 0,1219 ms
+Repetición 4: 0,1546 ms
+Repetición 5: 0,1511 ms
+Mediana: 0,1400 ms
+
+======================================
+ALGORITMO: Selection Sort
+======================================
+
+Tamaño: 16000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 63,4561 ms
+Repetición 2: 58,6645 ms
+Repetición 3: 62,3353 ms
+Repetición 4: 61,6966 ms
+Repetición 5: 60,7202 ms
+Mediana: 61,6966 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 64,0394 ms
+Repetición 2: 57,1920 ms
+Repetición 3: 62,8665 ms
+Repetición 4: 60,2763 ms
+Repetición 5: 56,1745 ms
+Mediana: 60,2763 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 72,2053 ms
+Repetición 2: 69,4390 ms
+Repetición 3: 80,2104 ms
+Repetición 4: 79,0348 ms
+Repetición 5: 74,4692 ms
+Mediana: 74,4692 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 57,2364 ms
+Repetición 2: 61,4960 ms
+Repetición 3: 61,8590 ms
+Repetición 4: 90,8282 ms
+Repetición 5: 57,2154 ms
+Mediana: 61,4960 ms
+
+======================================
+ALGORITMO: Bubble Sort
+======================================
+
+Tamaño: 16000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 357,7567 ms
+Repetición 2: 358,5935 ms
+Repetición 3: 348,0819 ms
+Repetición 4: 337,0982 ms
+Repetición 5: 342,6731 ms
+Mediana: 348,0819 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 32,7901 ms
+Repetición 2: 32,8069 ms
+Repetición 3: 37,6836 ms
+Repetición 4: 33,9628 ms
+Repetición 5: 41,7190 ms
+Mediana: 33,9628 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 219,2717 ms
+Repetición 2: 214,9099 ms
+Repetición 3: 211,3086 ms
+Repetición 4: 210,6077 ms
+Repetición 5: 224,9265 ms
+Mediana: 214,9099 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 351,4990 ms
+Repetición 2: 307,7914 ms
+Repetición 3: 304,0462 ms
+Repetición 4: 303,4322 ms
+Repetición 5: 309,8734 ms
+Mediana: 307,7914 ms
+
+======================================
+ALGORITMO: Insertion Sort
+======================================
+
+Tamaño: 16000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 14,3274 ms
+Repetición 2: 13,2787 ms
+Repetición 3: 18,1558 ms
+Repetición 4: 14,4198 ms
+Repetición 5: 13,9864 ms
+Mediana: 14,3274 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,0152 ms
+Repetición 2: 0,0263 ms
+Repetición 3: 0,0263 ms
+Repetición 4: 0,0262 ms
+Repetición 5: 0,0262 ms
+Mediana: 0,0262 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 29,9733 ms
+Repetición 2: 27,4659 ms
+Repetición 3: 25,4493 ms
+Repetición 4: 31,4508 ms
+Repetición 5: 31,9129 ms
+Mediana: 29,9733 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 10,9629 ms
+Repetición 2: 14,5656 ms
+Repetición 3: 13,3620 ms
+Repetición 4: 12,0758 ms
+Repetición 5: 11,7170 ms
+Mediana: 12,0758 ms
+
+======================================
+ALGORITMO: Shell Sort
+======================================
+
+Tamaño: 16000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 1,9942 ms
+Repetición 2: 1,8528 ms
+Repetición 3: 1,9957 ms
+Repetición 4: 1,7617 ms
+Repetición 5: 2,0359 ms
+Mediana: 1,9942 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,1863 ms
+Repetición 2: 0,1855 ms
+Repetición 3: 0,1922 ms
+Repetición 4: 0,1860 ms
+Repetición 5: 0,1865 ms
+Mediana: 0,1863 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,2816 ms
+Repetición 2: 0,2803 ms
+Repetición 3: 0,2885 ms
+Repetición 4: 0,2749 ms
+Repetición 5: 0,2708 ms
+Mediana: 0,2803 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,8052 ms
+Repetición 2: 0,7722 ms
+Repetición 3: 0,7695 ms
+Repetición 4: 0,7631 ms
+Repetición 5: 0,7665 ms
+Mediana: 0,7695 ms
+
+======================================
+ALGORITMO: Merge Sort
+======================================
+
+Tamaño: 16000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 3,9212 ms
+Repetición 2: 1,7603 ms
+Repetición 3: 1,9186 ms
+Repetición 4: 1,7801 ms
+Repetición 5: 1,6399 ms
+Mediana: 1,7801 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,5289 ms
+Repetición 2: 0,8038 ms
+Repetición 3: 0,5256 ms
+Repetición 4: 0,5745 ms
+Repetición 5: 0,5394 ms
+Mediana: 0,5394 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,5076 ms
+Repetición 2: 0,5082 ms
+Repetición 3: 0,4957 ms
+Repetición 4: 0,5262 ms
+Repetición 5: 0,5873 ms
+Mediana: 0,5082 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 1,0022 ms
+Repetición 2: 0,9878 ms
+Repetición 3: 0,9781 ms
+Repetición 4: 1,0039 ms
+Repetición 5: 0,9697 ms
+Mediana: 0,9878 ms
+
+======================================
+ALGORITMO: Quick Sort
+======================================
+
+Tamaño: 16000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 1,1607 ms
+Repetición 2: 1,3783 ms
+Repetición 3: 1,1715 ms
+Repetición 4: 1,1547 ms
+Repetición 5: 1,1584 ms
+Mediana: 1,1607 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 107,5922 ms
+Repetición 2: 96,6319 ms
+Repetición 3: 102,7104 ms
+Repetición 4: 146,1946 ms
+Repetición 5: 97,3295 ms
+Mediana: 102,7104 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 95,5294 ms
+Repetición 2: 70,4189 ms
+Repetición 3: 76,9940 ms
+Repetición 4: 68,4647 ms
+Repetición 5: 75,8737 ms
+Mediana: 75,8737 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 9,2641 ms
+Repetición 2: 8,9351 ms
+Repetición 3: 9,9458 ms
+Repetición 4: 10,3373 ms
+Repetición 5: 9,5986 ms
+Mediana: 9,5986 ms
+
+======================================
+ALGORITMO: Radix Sort
+======================================
+
+Tamaño: 16000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 1,6697 ms
+Repetición 2: 1,7635 ms
+Repetición 3: 1,5763 ms
+Repetición 4: 1,5410 ms
+Repetición 5: 1,1160 ms
+Mediana: 1,5763 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,6779 ms
+Repetición 2: 0,6657 ms
+Repetición 3: 0,6841 ms
+Repetición 4: 0,6766 ms
+Repetición 5: 0,7087 ms
+Mediana: 0,6779 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,8014 ms
+Repetición 2: 0,7096 ms
+Repetición 3: 0,6908 ms
+Repetición 4: 0,7618 ms
+Repetición 5: 0,7513 ms
+Mediana: 0,7513 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,2527 ms
+Repetición 2: 0,2611 ms
+Repetición 3: 0,2502 ms
+Repetición 4: 0,2619 ms
+Repetición 5: 0,2470 ms
+Mediana: 0,2527 ms
+
+======================================
+ALGORITMO: Shell Sort
+======================================
+
+Tamaño: 32000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 4,0380 ms
+Repetición 2: 4,2051 ms
+Repetición 3: 3,9048 ms
+Repetición 4: 3,8289 ms
+Repetición 5: 3,8878 ms
+Mediana: 3,9048 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,3286 ms
+Repetición 2: 0,3262 ms
+Repetición 3: 0,3267 ms
+Repetición 4: 0,3340 ms
+Repetición 5: 0,3264 ms
+Mediana: 0,3267 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,5122 ms
+Repetición 2: 0,5931 ms
+Repetición 3: 0,5320 ms
+Repetición 4: 0,5291 ms
+Repetición 5: 0,5669 ms
+Mediana: 0,5320 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 1,6578 ms
+Repetición 2: 1,6463 ms
+Repetición 3: 1,6554 ms
+Repetición 4: 1,6535 ms
+Repetición 5: 1,6403 ms
+Mediana: 1,6535 ms
+
+======================================
+ALGORITMO: Merge Sort
+======================================
+
+Tamaño: 32000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 4,5218 ms
+Repetición 2: 4,0428 ms
+Repetición 3: 4,0387 ms
+Repetición 4: 4,0538 ms
+Repetición 5: 3,9151 ms
+Mediana: 4,0428 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 2,4691 ms
+Repetición 2: 1,7442 ms
+Repetición 3: 1,7063 ms
+Repetición 4: 3,2974 ms
+Repetición 5: 3,8473 ms
+Mediana: 2,4691 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 1,7203 ms
+Repetición 2: 1,8880 ms
+Repetición 3: 3,0027 ms
+Repetición 4: 1,6495 ms
+Repetición 5: 1,6769 ms
+Mediana: 1,7203 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 2,4876 ms
+Repetición 2: 2,8022 ms
+Repetición 3: 3,0277 ms
+Repetición 4: 2,8037 ms
+Repetición 5: 2,6890 ms
+Mediana: 2,8022 ms
+
+======================================
+ALGORITMO: Quick Sort
+======================================
+
+Tamaño: 32000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 2,7660 ms
+Repetición 2: 2,6651 ms
+Repetición 3: 3,0963 ms
+Repetición 4: 2,6673 ms
+Repetición 5: 2,6320 ms
+Mediana: 2,6673 ms
+
+Tipo de arreglo: Ascendente
+Ascendente: No se pudo completar (StackOverflowError)
+
+Tipo de arreglo: Descendente
+Descendente: No se pudo completar (StackOverflowError)
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 35,0815 ms
+Repetición 2: 34,3496 ms
+Repetición 3: 35,5623 ms
+Repetición 4: 43,0496 ms
+Repetición 5: 88,3073 ms
+Mediana: 35,5623 ms
+
+======================================
+ALGORITMO: Radix Sort
+======================================
+
+Tamaño: 32000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 2,2712 ms
+Repetición 2: 2,2211 ms
+Repetición 3: 2,1560 ms
+Repetición 4: 1,9778 ms
+Repetición 5: 2,1934 ms
+Mediana: 2,1934 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 4,0323 ms
+Repetición 2: 3,1159 ms
+Repetición 3: 2,5372 ms
+Repetición 4: 1,9679 ms
+Repetición 5: 2,0738 ms
+Mediana: 2,5372 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 1,7871 ms
+Repetición 2: 1,7880 ms
+Repetición 3: 1,6658 ms
+Repetición 4: 1,7491 ms
+Repetición 5: 1,9144 ms
+Mediana: 1,7871 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 0,5863 ms
+Repetición 2: 0,6657 ms
+Repetición 3: 0,6471 ms
+Repetición 4: 0,7778 ms
+Repetición 5: 0,6330 ms
+Mediana: 0,6471 ms
+
+======================================
+ALGORITMO: Shell Sort
+======================================
+
+Tamaño: 64000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 9,9825 ms
+Repetición 2: 10,2583 ms
+Repetición 3: 8,8887 ms
+Repetición 4: 9,1982 ms
+Repetición 5: 8,9460 ms
+Mediana: 9,1982 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 0,7362 ms
+Repetición 2: 0,7367 ms
+Repetición 3: 0,7409 ms
+Repetición 4: 0,7251 ms
+Repetición 5: 0,7095 ms
+Mediana: 0,7362 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 1,1243 ms
+Repetición 2: 1,1080 ms
+Repetición 3: 1,1048 ms
+Repetición 4: 2,4895 ms
+Repetición 5: 2,1390 ms
+Mediana: 1,1243 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 3,6541 ms
+Repetición 2: 3,5951 ms
+Repetición 3: 3,8166 ms
+Repetición 4: 4,0434 ms
+Repetición 5: 4,0405 ms
+Mediana: 3,8166 ms
+
+======================================
+ALGORITMO: Merge Sort
+======================================
+
+Tamaño: 64000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 7,2891 ms
+Repetición 2: 7,3117 ms
+Repetición 3: 7,3355 ms
+Repetición 4: 7,4830 ms
+Repetición 5: 11,2710 ms
+Mediana: 7,3355 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 2,6087 ms
+Repetición 2: 2,6483 ms
+Repetición 3: 2,6192 ms
+Repetición 4: 2,4978 ms
+Repetición 5: 2,3906 ms
+Mediana: 2,6087 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 2,2729 ms
+Repetición 2: 2,5509 ms
+Repetición 3: 2,2582 ms
+Repetición 4: 2,9728 ms
+Repetición 5: 4,1291 ms
+Mediana: 2,5509 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 17,6576 ms
+Repetición 2: 16,3281 ms
+Repetición 3: 23,1207 ms
+Repetición 4: 14,6937 ms
+Repetición 5: 11,4309 ms
+Mediana: 16,3281 ms
+
+======================================
+ALGORITMO: Quick Sort
+======================================
+
+Tamaño: 64000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 5,4649 ms
+Repetición 2: 7,2470 ms
+Repetición 3: 5,5705 ms
+Repetición 4: 8,5344 ms
+Repetición 5: 13,9010 ms
+Mediana: 7,2470 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 145,4775 ms
+Repetición 2: 150,7403 ms
+Repetición 3: 144,5581 ms
+Repetición 4: 146,4386 ms
+Repetición 5: 148,2189 ms
+Mediana: 146,4386 ms
+
+======================================
+ALGORITMO: Radix Sort
+======================================
+
+Tamaño: 64000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 2,8772 ms
+Repetición 2: 2,8549 ms
+Repetición 3: 2,7658 ms
+Repetición 4: 2,8089 ms
+Repetición 5: 2,7660 ms
+Mediana: 2,8089 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 2,7322 ms
+Repetición 2: 2,7866 ms
+Repetición 3: 2,7716 ms
+Repetición 4: 3,2088 ms
+Repetición 5: 2,6600 ms
+Mediana: 2,7716 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 2,7231 ms
+Repetición 2: 2,6679 ms
+Repetición 3: 2,7034 ms
+Repetición 4: 2,6514 ms
+Repetición 5: 2,6459 ms
+Mediana: 2,6679 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 1,0461 ms
+Repetición 2: 0,9812 ms
+Repetición 3: 0,9490 ms
+Repetición 4: 0,9423 ms
+Repetición 5: 0,9745 ms
+Mediana: 0,9745 ms
+
+======================================
+ALGORITMO: Shell Sort
+======================================
+
+Tamaño: 128000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 20,0362 ms
+Repetición 2: 21,3538 ms
+Repetición 3: 21,8530 ms
+Repetición 4: 21,9671 ms
+Repetición 5: 21,7511 ms
+Mediana: 21,7511 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 1,6174 ms
+Repetición 2: 1,9313 ms
+Repetición 3: 2,0209 ms
+Repetición 4: 1,7519 ms
+Repetición 5: 1,6538 ms
+Mediana: 1,7519 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 2,5263 ms
+Repetición 2: 3,0654 ms
+Repetición 3: 2,6484 ms
+Repetición 4: 3,2629 ms
+Repetición 5: 4,0040 ms
+Mediana: 3,0654 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 9,1618 ms
+Repetición 2: 10,2927 ms
+Repetición 3: 9,9214 ms
+Repetición 4: 8,5554 ms
+Repetición 5: 8,4567 ms
+Mediana: 9,1618 ms
+
+======================================
+ALGORITMO: Merge Sort
+======================================
+
+Tamaño: 128000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 15,7570 ms
+Repetición 2: 16,4072 ms
+Repetición 3: 18,4848 ms
+Repetición 4: 19,6784 ms
+Repetición 5: 33,2784 ms
+Mediana: 18,4848 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 13,4870 ms
+Repetición 2: 11,1143 ms
+Repetición 3: 9,3363 ms
+Repetición 4: 11,0486 ms
+Repetición 5: 13,5545 ms
+Mediana: 11,1143 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 11,7485 ms
+Repetición 2: 9,2829 ms
+Repetición 3: 8,1036 ms
+Repetición 4: 6,6884 ms
+Repetición 5: 8,5369 ms
+Mediana: 8,5369 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 10,3222 ms
+Repetición 2: 9,5628 ms
+Repetición 3: 12,7696 ms
+Repetición 4: 19,0703 ms
+Repetición 5: 12,6169 ms
+Mediana: 12,6169 ms
+
+======================================
+ALGORITMO: Quick Sort
+======================================
+
+Tamaño: 128000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 15,8487 ms
+Repetición 2: 13,2201 ms
+Repetición 3: 14,1733 ms
+Repetición 4: 14,8088 ms
+Repetición 5: 23,0089 ms
+Mediana: 14,8088 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 896,3928 ms
+Repetición 2: 2282,7211 ms
+Repetición 3: 2216,1586 ms
+Repetición 4: 1617,2669 ms
+Repetición 5: 1454,0169 ms
+Mediana: 1617,2669 ms
+
+======================================
+ALGORITMO: Radix Sort
+======================================
+
+Tamaño: 128000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 16,2548 ms
+Repetición 2: 13,5689 ms
+Repetición 3: 13,2483 ms
+Repetición 4: 13,6677 ms
+Repetición 5: 12,7618 ms
+Mediana: 13,5689 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 14,6722 ms
+Repetición 2: 14,1307 ms
+Repetición 3: 14,8975 ms
+Repetición 4: 17,7170 ms
+Repetición 5: 12,8718 ms
+Mediana: 14,6722 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 24,2821 ms
+Repetición 2: 57,6218 ms
+Repetición 3: 13,4060 ms
+Repetición 4: 14,1478 ms
+Repetición 5: 13,7973 ms
+Mediana: 14,1478 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 4,0709 ms
+Repetición 2: 3,8415 ms
+Repetición 3: 3,8879 ms
+Repetición 4: 3,5524 ms
+Repetición 5: 3,8176 ms
+Mediana: 3,8415 ms
+
+======================================
+ALGORITMO: Shell Sort
+======================================
+
+Tamaño: 256000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 107,7323 ms
+Repetición 2: 94,1546 ms
+Repetición 3: 84,5238 ms
+Repetición 4: 84,2961 ms
+Repetición 5: 97,6088 ms
+Mediana: 94,1546 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 21,8328 ms
+Repetición 2: 11,3036 ms
+Repetición 3: 12,2543 ms
+Repetición 4: 12,5151 ms
+Repetición 5: 14,9106 ms
+Mediana: 12,5151 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 38,3201 ms
+Repetición 2: 23,3862 ms
+Repetición 3: 17,8287 ms
+Repetición 4: 21,2611 ms
+Repetición 5: 26,7223 ms
+Mediana: 23,3862 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 32,8104 ms
+Repetición 2: 16,9696 ms
+Repetición 3: 20,7543 ms
+Repetición 4: 21,6287 ms
+Repetición 5: 16,1674 ms
+Mediana: 20,7543 ms
+
+======================================
+ALGORITMO: Merge Sort
+======================================
+
+Tamaño: 256000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 42,6478 ms
+Repetición 2: 44,0470 ms
+Repetición 3: 44,9226 ms
+Repetición 4: 41,9704 ms
+Repetición 5: 45,5610 ms
+Mediana: 44,0470 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 16,8073 ms
+Repetición 2: 19,7974 ms
+Repetición 3: 14,8937 ms
+Repetición 4: 15,9318 ms
+Repetición 5: 15,0368 ms
+Mediana: 15,9318 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 19,2326 ms
+Repetición 2: 14,3994 ms
+Repetición 3: 14,8382 ms
+Repetición 4: 16,4223 ms
+Repetición 5: 15,9183 ms
+Mediana: 15,9183 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 33,3784 ms
+Repetición 2: 28,3224 ms
+Repetición 3: 24,3190 ms
+Repetición 4: 23,6375 ms
+Repetición 5: 23,7020 ms
+Mediana: 24,3190 ms
+
+======================================
+ALGORITMO: Quick Sort
+======================================
+
+Tamaño: 256000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 25,3408 ms
+Repetición 2: 24,3805 ms
+Repetición 3: 23,3168 ms
+Repetición 4: 22,6524 ms
+Repetición 5: 21,9550 ms
+Mediana: 23,3168 ms
+
+Tipo de arreglo: Duplicados
+Duplicados: No se pudo completar (StackOverflowError)
+
+======================================
+ALGORITMO: Radix Sort
+======================================
+
+Tamaño: 256000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 15,1558 ms
+Repetición 2: 17,3961 ms
+Repetición 3: 14,9617 ms
+Repetición 4: 14,9797 ms
+Repetición 5: 14,9075 ms
+Mediana: 14,9797 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 13,9158 ms
+Repetición 2: 14,1398 ms
+Repetición 3: 14,3428 ms
+Repetición 4: 14,4517 ms
+Repetición 5: 13,7075 ms
+Mediana: 14,1398 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 15,1460 ms
+Repetición 2: 15,1559 ms
+Repetición 3: 15,4313 ms
+Repetición 4: 20,2343 ms
+Repetición 5: 18,0235 ms
+Mediana: 15,4313 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 5,1709 ms
+Repetición 2: 3,9837 ms
+Repetición 3: 3,9487 ms
+Repetición 4: 4,6144 ms
+Repetición 5: 4,2293 ms
+Mediana: 4,2293 ms
+
+======================================
+ALGORITMO: Shell Sort
+======================================
+
+Tamaño: 512000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 114,0821 ms
+Repetición 2: 116,2522 ms
+Repetición 3: 209,6110 ms
+Repetición 4: 218,5345 ms
+Repetición 5: 225,9767 ms
+Mediana: 209,6110 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 30,8849 ms
+Repetición 2: 24,2401 ms
+Repetición 3: 30,0423 ms
+Repetición 4: 33,9574 ms
+Repetición 5: 27,3277 ms
+Mediana: 30,0423 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 41,6160 ms
+Repetición 2: 42,4860 ms
+Repetición 3: 40,4676 ms
+Repetición 4: 45,2460 ms
+Repetición 5: 38,9272 ms
+Mediana: 41,6160 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 63,6543 ms
+Repetición 2: 66,5557 ms
+Repetición 3: 67,9380 ms
+Repetición 4: 67,1927 ms
+Repetición 5: 66,5708 ms
+Mediana: 66,5708 ms
+
+======================================
+ALGORITMO: Merge Sort
+======================================
+
+Tamaño: 512000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 157,0703 ms
+Repetición 2: 144,6238 ms
+Repetición 3: 146,7052 ms
+Repetición 4: 143,2950 ms
+Repetición 5: 148,9570 ms
+Mediana: 146,7052 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 65,6839 ms
+Repetición 2: 69,7447 ms
+Repetición 3: 74,9006 ms
+Repetición 4: 60,8110 ms
+Repetición 5: 57,7249 ms
+Mediana: 65,6839 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 64,6343 ms
+Repetición 2: 69,3814 ms
+Repetición 3: 88,8204 ms
+Repetición 4: 79,7849 ms
+Repetición 5: 59,7298 ms
+Mediana: 69,3814 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 97,5732 ms
+Repetición 2: 99,8055 ms
+Repetición 3: 92,7977 ms
+Repetición 4: 109,9791 ms
+Repetición 5: 103,6080 ms
+Mediana: 99,8055 ms
+
+======================================
+ALGORITMO: Quick Sort
+======================================
+
+Tamaño: 512000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 283,7654 ms
+Repetición 2: 111,0459 ms
+Repetición 3: 115,0539 ms
+Repetición 4: 96,5871 ms
+Repetición 5: 96,7678 ms
+Mediana: 111,0459 ms
+
+======================================
+ALGORITMO: Radix Sort
+======================================
+
+Tamaño: 512000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 53,9171 ms
+Repetición 2: 55,8920 ms
+Repetición 3: 59,0173 ms
+Repetición 4: 59,0828 ms
+Repetición 5: 59,9511 ms
+Mediana: 59,0173 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 72,4842 ms
+Repetición 2: 67,8564 ms
+Repetición 3: 90,0280 ms
+Repetición 4: 62,6660 ms
+Repetición 5: 56,7201 ms
+Mediana: 67,8564 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 54,8434 ms
+Repetición 2: 54,8300 ms
+Repetición 3: 72,5549 ms
+Repetición 4: 69,4408 ms
+Repetición 5: 52,6725 ms
+Mediana: 54,8434 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 16,2325 ms
+Repetición 2: 15,4722 ms
+Repetición 3: 16,2977 ms
+Repetición 4: 16,9842 ms
+Repetición 5: 16,6880 ms
+Mediana: 16,2977 ms
+
+======================================
+ALGORITMO: Shell Sort
+======================================
+
+Tamaño: 1024000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 558,3470 ms
+Repetición 2: 489,3244 ms
+Repetición 3: 541,8666 ms
+Repetición 4: 639,3000 ms
+Repetición 5: 601,0805 ms
+Mediana: 558,3470 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 82,7285 ms
+Repetición 2: 56,1284 ms
+Repetición 3: 67,4009 ms
+Repetición 4: 55,3659 ms
+Repetición 5: 63,8540 ms
+Mediana: 63,8540 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 99,3871 ms
+Repetición 2: 89,5179 ms
+Repetición 3: 87,7418 ms
+Repetición 4: 81,6168 ms
+Repetición 5: 80,6015 ms
+Mediana: 87,7418 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 155,5849 ms
+Repetición 2: 140,6485 ms
+Repetición 3: 148,8118 ms
+Repetición 4: 139,1822 ms
+Repetición 5: 141,5023 ms
+Mediana: 141,5023 ms
+
+======================================
+ALGORITMO: Merge Sort
+======================================
+
+Tamaño: 1024000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 309,9183 ms
+Repetición 2: 301,9995 ms
+Repetición 3: 331,7551 ms
+Repetición 4: 345,6392 ms
+Repetición 5: 335,5658 ms
+Mediana: 331,7551 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 122,1463 ms
+Repetición 2: 122,3474 ms
+Repetición 3: 129,3172 ms
+Repetición 4: 134,8005 ms
+Repetición 5: 149,8750 ms
+Mediana: 129,3172 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 170,4273 ms
+Repetición 2: 154,4273 ms
+Repetición 3: 157,8555 ms
+Repetición 4: 137,3307 ms
+Repetición 5: 183,1900 ms
+Mediana: 157,8555 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 244,1761 ms
+Repetición 2: 266,6267 ms
+Repetición 3: 227,3423 ms
+Repetición 4: 250,5699 ms
+Repetición 5: 243,0260 ms
+Mediana: 244,1761 ms
+
+======================================
+ALGORITMO: Quick Sort
+======================================
+
+Tamaño: 1024000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 232,0551 ms
+Repetición 2: 247,9024 ms
+Repetición 3: 274,4159 ms
+Repetición 4: 222,1572 ms
+Repetición 5: 246,5550 ms
+Mediana: 246,5550 ms
+
+======================================
+ALGORITMO: Radix Sort
+======================================
+
+Tamaño: 1024000
+
+Tipo de arreglo: Aleatorio
+Tiempos registrados en cada repetición:
+Repetición 1: 125,9831 ms
+Repetición 2: 125,2779 ms
+Repetición 3: 157,9563 ms
+Repetición 4: 111,9590 ms
+Repetición 5: 281,9910 ms
+Mediana: 125,9831 ms
+
+Tipo de arreglo: Ascendente
+Tiempos registrados en cada repetición:
+Repetición 1: 144,1396 ms
+Repetición 2: 121,3845 ms
+Repetición 3: 124,2484 ms
+Repetición 4: 122,6915 ms
+Repetición 5: 119,2312 ms
+Mediana: 122,6915 ms
+
+Tipo de arreglo: Descendente
+Tiempos registrados en cada repetición:
+Repetición 1: 144,9716 ms
+Repetición 2: 137,9336 ms
+Repetición 3: 125,1434 ms
+Repetición 4: 112,6487 ms
+Repetición 5: 119,5477 ms
+Mediana: 125,1434 ms
+
+Tipo de arreglo: Duplicados
+Tiempos registrados en cada repetición:
+Repetición 1: 28,7863 ms
+Repetición 2: 32,0566 ms
+Repetición 3: 32,4710 ms
+Repetición 4: 33,8069 ms
+Repetición 5: 35,2745 ms
+Mediana: 32,4710 ms

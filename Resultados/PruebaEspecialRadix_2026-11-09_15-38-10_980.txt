@@ -1,0 +1,39 @@
+
+======================================
+PRUEBA ESPECIAL: RADIX SORT
+======================================
+Tamaño del arreglo: 100000
+Cantidad de dígitos: 3
+Valores: 0 a 999
+Repetición 1: 6.2030 ms
+Repetición 2: 2.5853 ms
+Repetición 3: 2.3797 ms
+Repetición 4: 2.4445 ms
+Repetición 5: 2.3859 ms
+Mediana: 2.4445 ms
+
+======================================
+PRUEBA ESPECIAL: RADIX SORT
+======================================
+Tamaño del arreglo: 100000
+Cantidad de dígitos: 6
+Valores: 0 a 999999
+Repetición 1: 7.5274 ms
+Repetición 2: 4.4222 ms
+Repetición 3: 4.2173 ms
+Repetición 4: 4.1446 ms
+Repetición 5: 4.1175 ms
+Mediana: 4.2173 ms
+
+======================================
+PRUEBA ESPECIAL: RADIX SORT
+======================================
+Tamaño del arreglo: 100000
+Cantidad de dígitos: 9
+Valores: 0 a 999999999
+Repetición 1: 6.2879 ms
+Repetición 2: 6.6134 ms
+Repetición 3: 6.7269 ms
+Repetición 4: 6.6675 ms
+Repetición 5: 6.6787 ms
+Mediana: 6.6675 ms

@@ -11,6 +11,8 @@
  * los elementos de diferentes arreglos.
  */
 
+import Pruebas_Algoritmos.*;
+
 public class Main {
 
     // Método principal donde comienza la ejecución
@@ -24,7 +26,7 @@ public class Main {
         System.out.println("\nPRUEBAS DE SELECTION SORT");
 
         // Se llama al método que ejecuta las cuatro pruebas de funcionamiento de Selection Sort.
-            // Este método se encuentra definido en la clase PruebasSelectionSort.
+            // Este método se encuentra definido en la clase Pruebas_Algoritmos.PruebasSelectionSort.
         PruebasSelectionSort.ejecutarPruebas();
 
         //*****************************************************************************
@@ -69,7 +71,7 @@ public class Main {
         // Primero muestra el nombre del algoritmo Quick Sort en la consola.
                 System.out.println("\nPRUEBAS DE QUICK SORT");
 
-        // Se llama al método ejecutarPruebas de PruebasQuickSort.
+        // Se llama al método ejecutarPruebas de Pruebas_Algoritmos.PruebasQuickSort.
             // Este método realiza las pruebas con arreglos aleatorios,
                 // ascendentes, descendentes y con números duplicados.
                 PruebasQuickSort.ejecutarPruebas();
@@ -80,7 +82,7 @@ public class Main {
         // Se muestra el nombre del último algoritmo.
         System.out.println("\nPRUEBAS DE RADIX SORT");
 
-        // Llama al método ejecutarPruebas() de la clase PruebasRadixSort.
+        // Llama al método ejecutarPruebas() de la clase Pruebas_Algoritmos.PruebasRadixSort.
 
         // Este método ejecuta las pruebas con
         // arreglos aleatorios, ascendentes,descendentes y con números duplicados.
